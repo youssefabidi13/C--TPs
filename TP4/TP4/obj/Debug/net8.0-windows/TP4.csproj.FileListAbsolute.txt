@@ -1,0 +1,6 @@
+D:\S9\.NET\TP4\TP4\obj\Debug\net8.0-windows\TP4.MyForm.resources
+D:\S9\.NET\TP4\TP4\obj\Debug\net8.0-windows\TP4.csproj.GenerateResource.cache
+D:\S9\.NET\TP4\TP4\obj\Debug\net8.0-windows\TP4.GeneratedMSBuildEditorConfig.editorconfig
+D:\S9\.NET\TP4\TP4\obj\Debug\net8.0-windows\TP4.AssemblyInfoInputs.cache
+D:\S9\.NET\TP4\TP4\obj\Debug\net8.0-windows\TP4.AssemblyInfo.cs
+D:\S9\.NET\TP4\TP4\obj\Debug\net8.0-windows\TP4.csproj.CoreCompileInputs.cache

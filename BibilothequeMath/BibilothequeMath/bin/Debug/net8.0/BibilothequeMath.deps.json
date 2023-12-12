@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BibilothequeMath/1.0.0": {
+        "runtime": {
+          "BibilothequeMath.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibilothequeMath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

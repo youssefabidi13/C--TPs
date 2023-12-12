@@ -1,0 +1,11 @@
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\obj\Debug\net8.0\BibilothequeMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\obj\Debug\net8.0\BibilothequeMath.AssemblyInfoInputs.cache
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\obj\Debug\net8.0\BibilothequeMath.AssemblyInfo.cs
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\obj\Debug\net8.0\BibilothequeMath.csproj.CoreCompileInputs.cache
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\bin\Debug\net8.0\BibilothequeMath.deps.json
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\bin\Debug\net8.0\BibilothequeMath.dll
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\bin\Debug\net8.0\BibilothequeMath.pdb
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\obj\Debug\net8.0\BibilothequeMath.dll
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\obj\Debug\net8.0\refint\BibilothequeMath.dll
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\obj\Debug\net8.0\BibilothequeMath.pdb
+D:\S9\.NET\BibilothequeMath\BibilothequeMath\obj\Debug\net8.0\ref\BibilothequeMath.dll

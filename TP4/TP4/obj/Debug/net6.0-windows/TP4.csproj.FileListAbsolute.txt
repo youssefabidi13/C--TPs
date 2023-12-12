@@ -1,0 +1,49 @@
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.exe
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.deps.json
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.runtimeconfig.json
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.dll
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.pdb
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.csproj.AssemblyReference.cache
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.MyForm.resources
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.csproj.GenerateResource.cache
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.GeneratedMSBuildEditorConfig.editorconfig
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.AssemblyInfoInputs.cache
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.AssemblyInfo.cs
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.csproj.CoreCompileInputs.cache
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.dll
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\refint\TP4.dll
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.pdb
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.genruntimeconfig.cache
+E:\GI3\Semester 1\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\ref\TP4.dll
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.exe
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.deps.json
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.runtimeconfig.json
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.dll
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\bin\Debug\net6.0-windows\TP4.pdb
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.MyForm.resources
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.csproj.GenerateResource.cache
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.AssemblyInfoInputs.cache
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.AssemblyInfo.cs
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.csproj.CoreCompileInputs.cache
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.dll
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\refint\TP4.dll
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.pdb
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\TP4.genruntimeconfig.cache
+D:\OUAMI SEFIANE GI3-20231012T102812Z-001\OUAMI SEFIANE GI3\dotNet\TPs\TP4\TP4\obj\Debug\net6.0-windows\ref\TP4.dll
+D:\S9\.NET\TP4\TP4\bin\Debug\net6.0-windows\TP4.exe
+D:\S9\.NET\TP4\TP4\bin\Debug\net6.0-windows\TP4.deps.json
+D:\S9\.NET\TP4\TP4\bin\Debug\net6.0-windows\TP4.runtimeconfig.json
+D:\S9\.NET\TP4\TP4\bin\Debug\net6.0-windows\TP4.dll
+D:\S9\.NET\TP4\TP4\bin\Debug\net6.0-windows\TP4.pdb
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\TP4.MyForm.resources
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\TP4.csproj.GenerateResource.cache
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\TP4.GeneratedMSBuildEditorConfig.editorconfig
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\TP4.AssemblyInfoInputs.cache
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\TP4.AssemblyInfo.cs
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\TP4.csproj.CoreCompileInputs.cache
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\TP4.dll
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\refint\TP4.dll
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\TP4.pdb
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\TP4.genruntimeconfig.cache
+D:\S9\.NET\TP4\TP4\obj\Debug\net6.0-windows\ref\TP4.dll

@@ -1,0 +1,22 @@
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.AssemblyInfoInputs.cache
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.AssemblyInfo.cs
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.csproj.CoreCompileInputs.cache
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.exe
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.deps.json
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.runtimeconfig.json
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.dll
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.pdb
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.csproj.AssemblyReference.cache
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.csproj.CopyComplete
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.dll
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\refint\TP7 _Connexion_à_une_BD_SQLServer.dll
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.pdb
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\TP7 _Connexion_à_une_BD_SQLServer.genruntimeconfig.cache
+D:\S9\.NET\TP7 _Connexion_à_une_BD_SQLServer\TP7 _Connexion_à_une_BD_SQLServer\obj\Debug\net8.0\ref\TP7 _Connexion_à_une_BD_SQLServer.dll
